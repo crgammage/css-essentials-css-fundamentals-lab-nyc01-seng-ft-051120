@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: black;
+  text-align: center;
+}
+#featured-property {
+  text-align: center;
+}
+#featured-property p {
+  width: 800px;
+  text-align:center;
+}
+.a {
+  padding-left: 10px;
+  padding-right: 10px
+  color: grey;
+}
+figcaption {
+  text-align: center;
+  font-size: 10px;
+}
+#details {
+  display: block;
+}
+#details div {
+  
+}
